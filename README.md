@@ -12,8 +12,8 @@ A tool for spawning vehicles on an AltV server.
 
 ### How do I open the menu?
 
-- You can open the menu by pressing the "F9" key.
-- You can close the menu by pressing the "F9" or "Esc" key.
+- You can open the menu by pressing the "Numpad 9" key.
+- You can close the menu by pressing the "Numpad 9" or "Esc" key.
 - You can change the key bindings in the client.js file, lines 51-58.
 
 ### Features
@@ -37,8 +37,8 @@ Ein Tool zum Spawnen von Fahrzeugen auf einem AltV-Server.
 
 ### Wie öffne ich das Menü?
 
-- Du kannst das Menü öffnen, indem du die "F9"-Taste drückst.
-- Du kannst das Menü schließen, indem du die "F9"- oder "Esc"-Taste drückst.
+- Du kannst das Menü öffnen, indem du die "Numpad 9"-Taste drückst.
+- Du kannst das Menü schließen, indem du die "Numpad 9"- oder "Esc"-Taste drückst.
 - Du kannst die Tastenbelegung in der Datei client.js in den Zeilen 51-58 ändern.
 
 ### Funktionen
