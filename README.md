@@ -48,7 +48,7 @@ Ein Tool zum Spawnen von Fahrzeugen auf einem AltV-Server.
 - [x] Bilder von den Fahrzeugen
 - [ ] Fahrzeuge Namen aus der Datenbank nehmen
 - [ ] Fahrzeuge Bilder aus der Datenbank nehmen
-- [ ] Das man es Menü nur mit einem bestimmten Rang nutzen kann
+- [ ] Das man das Menü nur mit einem bestimmten Rang nutzen kann
 
 ## Screenshots
 
