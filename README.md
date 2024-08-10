@@ -45,7 +45,7 @@ Ein Tool zum Spawnen von Fahrzeugen auf einem AltV-Server.
 ### Funktionen
 
 - [x] Fahrzeuge Spawnen
-- [x] Alle Models der AltV Liste hinzugefügt ([AltV Vehicle Liste](https://docs.altv.mp/gta/articles/vehicle/models.html))
+- [x] Alle Models der AltV Liste hinzugefügt ([AltV Fahrzeug Liste](https://docs.altv.mp/gta/articles/vehicle/models.html))
 - [x] Direkt im Fahrzeug sitzen nach dem Spawn
 - [x] Bilder von den Fahrzeugen
 - [ ] Fahrzeuge Namen aus der Datenbank nehmen
