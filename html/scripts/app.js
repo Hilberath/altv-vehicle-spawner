@@ -2,6 +2,39 @@ let app = new Vue({
   el: "#app",
   data: {
     categories: ["Alle", "Boote", "Werbefahrzeuge", "Kompaktwagen", "Coupés", "Zweiräder", "Einsatzfahrzeuge", "Hubschrauber", "Industrielle Fahrzeuge", "Militärfahrzeuge", "Motorräder", "Muscle-Cars", "Geländefahrzeuge", "Flugzeuge", "SUVs", "Limousinen", "Dienstfahrzeuge", "Sportwagen", "Sportklassiker", "Supersportwagen", "Anhänger", "Züge", "Nutzfahrzeuge", "Transporter", "Formel-Fahrzeuge"],
+    /*
+    Kategorien:
+    0 = Alle
+    1 = Boote
+    2 = Werbefahrzeuge
+    3 = Kompaktwagen
+    4 = Coupés
+    5 = Zweiräder
+    6 = Einsatzfahrzeuge
+    7 = Hubschrauber
+    8 = Industrielle Fahrzeuge
+    9 = Militärfahrzeuge
+    10 = Motorräder
+    11= Muscle-Cars
+    12 = Geländefahrzeuge
+    13 = Flugzeuge
+    14 = SUVs
+    15 = Limousinen
+    16 = Dienstfahrzeuge
+    17 = Sportwagen
+    18 = Sportklassiker
+    19 = Supersportwagen
+    20 = Anhänger
+    21 = Züge
+    22 = Nutzfahrzeuge
+    23 = Transporter
+    24 = Formel-Fahrzeuge
+
+    Die namen der Kategorien kannst du Oberhalb abändern,
+    die Bilder müssen den Selben namen haben und in dem "models" Ordner eingefügt werden
+    Die Bilder für die Kategorien findest du in dem Ordner "categories"
+    */
+
     models: [
       { category: 1, model: "dinghy" },
       { category: 1, model: "dinghy2" },
@@ -673,6 +706,10 @@ let app = new Vue({
     ],
     keyword: "",
     storage: [],
+    //#########################################################
+    //Wenn du die Index.HTML Datei im Browser öffnen und bearbeiten willst
+    //setze für diesen Zeitraum visible auf true
+    //#########################################################
     visible: false,
   },
   watch: {
